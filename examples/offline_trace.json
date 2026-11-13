@@ -1,0 +1,38 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "researcher",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "researcher",
+    "elapsed_seconds": 0.00021
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "analyst",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "analyst",
+    "elapsed_seconds": 2e-05
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "critic",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "critic",
+    "elapsed_seconds": 2e-05
+  }
+]

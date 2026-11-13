@@ -1,0 +1,17 @@
+{
+  "owner": "procurement-demo",
+  "vendor": "Example Supplies",
+  "sources": [
+    {
+      "id": "S1",
+      "fact": "A security review is pending.",
+      "risk_points": 3
+    },
+    {
+      "id": "S2",
+      "fact": "The vendor has a documented support policy.",
+      "risk_points": 0
+    }
+  ],
+  "escalation_threshold": 3
+}

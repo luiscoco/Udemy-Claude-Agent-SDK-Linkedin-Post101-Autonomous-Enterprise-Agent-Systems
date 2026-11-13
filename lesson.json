@@ -1,0 +1,16 @@
+{
+  "lesson": 100,
+  "title": "Autonomous Enterprise Agent Systems",
+  "application": "Governed Vendor Risk Desk",
+  "purpose": "Combine evidence-scoped analysis, independent rule checks, review, persistent audit state and a human gate for a vendor-risk report.",
+  "exercise": "Run with and without --approve. Change risk points and remove a citation. Verify the application never approves a vendor or sends the report externally.",
+  "source_topics": [
+    "00-Arquitectura de sistemas agentes empresariales autónomos.png",
+    "01-The-Enterprise-Capstone-Architecture.png",
+    "02-Define-Specialist-Subagents.png",
+    "03-Govern-Every-Action.png",
+    "04-Worked-Example-Vendor-Risk-Summary.png",
+    "05-Operate-at-Enterprise-Scale.png",
+    "06-Your-Journey-from-Here.png"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "lesson": 100,
+  "application": "Governed Vendor Risk Desk",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "findings": {
+      "findings": [
+        {
+          "fact": "A security review is pending.",
+          "source_id": "S1"
+        },
+        {
+          "fact": "The vendor has a documented support policy.",
+          "source_id": "S2"
+        }
+      ]
+    },
+    "draft": "Example Supplies has a pending security review [S1] and a support policy [S2]. Three risk points require human review. No vendor approval has been issued.",
+    "critique": {
+      "accepted": true,
+      "reason": "The pending review and absence of approval are explicit."
+    },
+    "citation_gate": true,
+    "audit": {
+      "owner": "procurement-demo",
+      "vendor": "Example Supplies",
+      "risk_points": 3,
+      "policy_decision": "human_review_required",
+      "report_decision": "pending_human_review",
+      "mode": false
+    },
+    "vendor_approved": false
+  },
+  "measured_cost_usd": null
+}
